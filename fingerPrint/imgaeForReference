@@ -1,0 +1,19 @@
+Changed contrast and brightness to 0.8 and 25 respectively  ok	///////////////
+
+Converted from RGB to Gray ok/////////////////
+
+Applied histogram equalization ok/////////////////////
+
+Normalized image ok//////////////////
+
+Applied adaptive (gaussian c) threshold for block size of 15 and constant 2 ok/////////////
+
+Smooth image to get rid of edges/////// ok
+
+Changed contrast and brightness again to 1.7 and -40 respectively
+
+Applied Gaussian Blur
+
+Add weight (alpha = 0.5, beta = -0.5 and gamma = 0)
+
+Applied binary threshold (threshold = 10)
